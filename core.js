@@ -1,4 +1,4 @@
-const clearColor="#061030";
+const clearColor="#e0c2a8";
 const paddleColor="#EEEEEE";
 const ballColor="#d63031";
 const can=document.getElementById("can");
